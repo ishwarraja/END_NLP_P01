@@ -1,5 +1,5 @@
 
-    Audience : The file is intended for the people familiar with natural language programming
+    **Audience** : The file is intended for the people familiar with natural language programming
     describes the data clean required
     your model architecture and salient features w.r.t. the model we wrote in the class
     describes the loss function and how is it unique or improved than just using cross-entropy
